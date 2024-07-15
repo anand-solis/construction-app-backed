@@ -1,0 +1,9 @@
+# NPM Packages
+node_modules
+
+# VSCODE Settings
+.vscode
+
+# SQLite Database
+blacklist.db
+.DS_STORE
